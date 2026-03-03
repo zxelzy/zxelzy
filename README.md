@@ -7,4 +7,4 @@ I'm just here to share what I've collected so far
 
 💬 If you want to contact me, just contact me here:
 
-- 📧 E-mail : [elzyy](elzyproot@protonmail.com)
+- 📧 E-mail : [elzyproot@protonmail.com]()
