@@ -1,6 +1,6 @@
 ### Hi, I'm Elzy 👉👈
 
-<p> <img src="https://komarev.com/ghpvc/?username=storm-os&label=Profile%20views&color=blueviolet&style=flat" alt="Elzy" />
+<p> <img src="https://komarev.com/ghpvc/?username=storm-os&label=Profile%20views&color=blueviolet&style=flat" alt="Elzy" /> </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=storm-os&show_icons=true&theme=radical"/>
 
