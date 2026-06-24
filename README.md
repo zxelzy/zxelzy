@@ -10,4 +10,5 @@ I'm just here to share what I've collected so far
 
 💬 If you want to contact me, just contact me here:
 
-- 🐦 Twitter: [elzyone](https://x.com/elzyone)
+- 🐦 : [Twitter](https://x.com/elzyone)
+- @  : [Threads](https://www.threads.com/@zxelzy_)
